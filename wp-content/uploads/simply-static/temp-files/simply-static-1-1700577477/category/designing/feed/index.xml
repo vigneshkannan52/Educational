@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Designing &#8211; Online Education</title>
+	<atom:link href="https://vigneshkannan52.github.io/Educational/category/designing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vigneshkannan52.github.io/Educational</link>
+	<description></description>
+	<lastBuildDate>Tue, 11 Jan 2022 05:34:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>https://vigneshkannan52.github.io/Educational/wp-content/uploads/2023/11/favicon.png</url>
+	<title>Designing &#8211; Online Education</title>
+	<link>https://vigneshkannan52.github.io/Educational</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Beginners UX Guide and Principles</title>
+		<link>https://vigneshkannan52.github.io/Educational/2022/01/11/beginners-ux-guide-and-principles/</link>
+					<comments>https://vigneshkannan52.github.io/Educational/2022/01/11/beginners-ux-guide-and-principles/#respond</comments>
+		
+		<dc:creator><![CDATA[vignesh52]]></dc:creator>
+		<pubDate>Tue, 11 Jan 2022 05:34:54 +0000</pubDate>
+				<category><![CDATA[Designing]]></category>
+		<category><![CDATA[UI/UX]]></category>
+		<guid isPermaLink="false">https://online-education.sites.qsandbox.com/?p=810</guid>
+
+					<description><![CDATA[Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. ]]></description>
+										<content:encoded><![CDATA[
+<p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Donec rutrum congue leo eget malesuada. Nulla quis lorem ut libero malesuada feugiat. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla porttitor accumsan tincidunt.</p>
+
+
+
+<p>Nulla quis lorem ut libero malesuada feugiat. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Curabitur aliquet quam id dui posuere blandit. Cras ultricies ligula sed magna dictum porta. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Sed porttitor lectus nibh.</p>
+
+
+
+<p></p>
+
+
+
+<p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Donec rutrum congue leo eget malesuada. Nulla quis lorem ut libero malesuada feugiat. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla porttitor accumsan tincidunt.</p>
+
+
+
+<p>Nulla quis lorem ut libero malesuada feugiat. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Curabitur aliquet quam id dui posuere blandit. Cras ultricies ligula sed magna dictum porta. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Sed porttitor lectus nibh.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vigneshkannan52.github.io/Educational/2022/01/11/beginners-ux-guide-and-principles/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Music &#8211; Online Education</title>
+	<atom:link href="https://vigneshkannan52.github.io/Educational/course-category/music/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vigneshkannan52.github.io/Educational</link>
+	<description></description>
+	<lastBuildDate>Sun, 09 Jan 2022 08:55:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>https://vigneshkannan52.github.io/Educational/wp-content/uploads/2023/11/favicon.png</url>
+	<title>Music &#8211; Online Education</title>
+	<link>https://vigneshkannan52.github.io/Educational</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Guitar Master Class</title>
+		<link>https://vigneshkannan52.github.io/Educational/course/guitar-master-class/</link>
+		
+		<dc:creator><![CDATA[vignesh52]]></dc:creator>
+		<pubDate>Sun, 09 Jan 2022 08:55:01 +0000</pubDate>
+				<guid isPermaLink="false">https://online-education.sites.qsandbox.com/?post_type=mto-course&#038;p=310</guid>
+
+					<description><![CDATA[Guitar lessons involve you being taught how to play guitar, by a teacher, either online or in-person. It&#8230;]]></description>
+										<content:encoded><![CDATA[<p>Guitar lessons involve <strong>you being taught how to play guitar</strong>, by a teacher, either online or in-person. It can also be described as tutoring or &#8220;guitar instruction” where one person guides you through aspects of learning and playing the instrument. You will know every single chord you need to play literally thousands of songs, in every genre of music that includes an acoustic guitar!</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Donec rutrum congue leo eget malesuada. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

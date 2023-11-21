@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WordPress &#8211; Online Education</title>
+	<atom:link href="https://vigneshkannan52.github.io/Educational/course-category/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vigneshkannan52.github.io/Educational</link>
+	<description></description>
+	<lastBuildDate>Sat, 08 Jan 2022 11:11:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>https://vigneshkannan52.github.io/Educational/wp-content/uploads/2023/11/favicon.png</url>
+	<title>WordPress &#8211; Online Education</title>
+	<link>https://vigneshkannan52.github.io/Educational</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Get Started with WordPress</title>
+		<link>https://vigneshkannan52.github.io/Educational/course/get-started-with-wordpress/</link>
+		
+		<dc:creator><![CDATA[vignesh52]]></dc:creator>
+		<pubDate>Sat, 08 Jan 2022 11:11:23 +0000</pubDate>
+				<guid isPermaLink="false">https://online-education.sites.qsandbox.com/?post_type=mto-course&#038;p=296</guid>
+
+					<description><![CDATA[The primary goal of this course is to teach anyone, even a complete beginner, how to become a&#8230;]]></description>
+										<content:encoded><![CDATA[<p>The primary goal of this course is to teach anyone, even a complete beginner, how to become a WordPress guru in a few short hours, without lots of technical jargon.  I&#8217;ll guarantee that after taking this course you&#8217;ll have the knowledge you need to build a responsive, beautiful website with the latest version of WordPress.  Not only will you know more than 99% of WordPress users out there, but you&#8217;ll actually enjoy using WordPress too. </p>
+<p>This course is taught by WordPress author and teacher, Dr. Andy Williams, who has over a decade of experience using and teaching WordPress to people of all skill levels.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
